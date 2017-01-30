@@ -1,5 +1,6 @@
 # -R-Twitter-Sentiment-Analysis
 
+Check the blog post: [Tweets Sentiment Analysis] (https://romele-stefano.github.io/coding-blog/r/2016/10/30/Presidential.html)
 	
 | Script | What it does |
 |--------|--------------|

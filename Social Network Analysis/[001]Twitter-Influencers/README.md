@@ -1,5 +1,7 @@
 # -R- Twitter Influencers
 
+Check the blog post: [Twitter #DataScience Influencers] (https://romele-stefano.github.io/coding-blog/r/2016/11/02/Influencers.html)
+
 	
 | Script | What it does |
 |--------|--------------|
