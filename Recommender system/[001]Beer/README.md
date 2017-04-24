@@ -1,6 +1,7 @@
-# -R- Energy Efficency
+# -R- Beer Recommender System
 
-Data set used: [Beer Reviews](https://s3.amazonaws.com/demo-datasets/beer_reviews.tar.gz)
+Data set used: [Beer Reviews](https://s3.amazonaws.com/demo-datasets/beer_reviews.tar.gz)    
+Use collaborative filtering to suggest new beers!     
 
 	
 | Script | What it does |

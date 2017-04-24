@@ -1,7 +1,7 @@
 # Uber Pickup Analysis
 
-Analysis of the data set [Uber pickups data](https://github.com/fivethirtyeight/uber-tlc-foil-response)
-For the analysis I have used the April, 2014 data.
+Analysis of the data set [Uber pickups data](https://github.com/fivethirtyeight/uber-tlc-foil-response)    
+For the analysis I have used the April, 2014 data. Use pickups location to draw NYC map.    
 Check the blog post [Uber pickups map] (https://romele-stefano.github.io/coding-blog/r/2016/11/28/NYC_uber_pickups.html)
 
 

@@ -1,6 +1,7 @@
-# -R- Energy Efficency
+# -R- HR Analytics
 
-Data set used: [Human Resources Analytics](https://www.kaggle.com/ludobenistant/hr-analytics)
+Data set used: [Human Resources Analytics](https://www.kaggle.com/ludobenistant/hr-analytics)    
+Use machine learning to predict if an employee will leave the company.   
 Check the blog post: [Machine Learning Applied to HR Data] (add link)
 
 	

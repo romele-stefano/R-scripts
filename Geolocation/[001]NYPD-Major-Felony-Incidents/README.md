@@ -1,7 +1,7 @@
 # -R-NYPD-7-Major-Felony-Incidents
 
-Analysis of the data set [NYPD-7-Major-Felony-Incidents](https://data.cityofnewyork.us/Public-Safety/NYPD-7-Major-Felony-Incidents/hyij-8hr7)
-Check the blog post [NYC crime map] (https://romele-stefano.github.io/coding-blog/r/2016/10/24/NYC.html)
+Analysis of the data set [NYPD-7-Major-Felony-Incidents](https://data.cityofnewyork.us/Public-Safety/NYPD-7-Major-Felony-Incidents/hyij-8hr7)   
+Check the blog post [NYC crime map] (https://romele-stefano.github.io/coding-blog/r/2016/10/24/NYC.html)     
 
 The data set includes 1123465 observations of 20 variables:
 	- id
