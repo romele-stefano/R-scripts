@@ -2,7 +2,7 @@
 
 Data set used: [Energy Efficency](https://archive.ics.uci.edu/ml/datasets/Energy+efficiency)    
 Use neural net to predict heating and cooling load.   
-Check the blog post: [Neural Net for Energy Efficency Predictions] (https://romele-stefano.github.io/coding-blog/r/machine_learning/2016/11/07/ml_energy_efficiency.html)
+
 
 	
 | Script | What it does |
