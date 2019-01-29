@@ -1,4 +1,3 @@
-setwd("C:/Users/romel/Documents/Dataset/telcoChurn")
 library(ggplot2)
 library(gridExtra)
 library(plotly)
